@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className='flex flex-row gap-3 items-center'>
             <div className='relative'>
             <Image
-            src="./MeLogo.png" 
+            src="/MeLogo.png" 
             alt='logo'
             height={40}
             width={40}
